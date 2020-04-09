@@ -12,4 +12,3 @@ pandas
 datetime
 sklearn
 voila-gridstack
-nodejs
