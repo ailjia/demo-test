@@ -5,3 +5,4 @@ ipywidgets
 numpy 
 voila
 nbformat
+--upgrade pygments
