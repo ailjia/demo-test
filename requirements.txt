@@ -4,4 +4,4 @@ bqplot
 ipywidgets
 numpy 
 voila
---upgrade nbformat
+nbformat
