@@ -5,3 +5,9 @@ ipywidgets
 jupyter
 ipykernel
 voila
+
+os
+pandas 
+matplotlib.pyplot
+numpy
+%matplotlib inline
