@@ -4,7 +4,7 @@ bqplot
 ipywidgets
 numpy 
 voila
-nbformat
+nbformat>= 4.2
 pygments>=2.4.1
 numpy
 matplotlib
