@@ -1,13 +1,6 @@
-rasterio
-bqplot
-ipywidgets
-#IPython.display
 jupyter
 ipykernel
+bqplot
+ipywidgets
+numpy 
 voila
-
-#os
-pandas 
-matplotlib.pyplot
-numpy
-%matplotlib inline
