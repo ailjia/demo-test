@@ -2,3 +2,6 @@ rasterio
 bqplot
 ipywidgets
 IPython.display
+jupyter
+ipykernel
+voila
