@@ -9,3 +9,5 @@ pygments>=2.4.1
 numpy
 matplotlib
 pandas
+datetime
+sklearn
