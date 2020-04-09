@@ -6,7 +6,7 @@ jupyter
 ipykernel
 voila
 
-os
+#os
 pandas 
 matplotlib.pyplot
 numpy
