@@ -6,3 +6,6 @@ numpy
 voila
 nbformat
 pygments
+numpy
+matplotlib
+pandas
