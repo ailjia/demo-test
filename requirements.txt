@@ -3,7 +3,7 @@ ipykernel
 bqplot
 ipywidgets
 numpy 
-VoilaConfiguration.enable_nbextensions=True
+voila>=0.1.8
 nbformat>= 4.2
 pygments>=2.4.1
 numpy
